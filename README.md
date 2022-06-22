@@ -5,7 +5,7 @@
 - 🌱 I’m currently experimenting the web ecosystem
 - 👯 I’m looking to collaborate on solving problems with software
 - 💬 Ask me about anything web-related, I might have a hint
-- 📫 How to reach me: ckarungu921@gmail.com
+- 📫 How to reach me: arickbulakali@gmail.com
 -
 
 - ⚡ "*build your futur in technology*"
@@ -71,7 +71,7 @@
   />
 </p>
 
-<h2 align="center">🛠 Languages and Tools:</h2>
+<h2 align="left">🛠 Languages and Tools:</h2>
 
 <p align="center" width="100"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NdekoCode&show_icons=true&locale=en" alt="NdekoCode" /></p>
 
