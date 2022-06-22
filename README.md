@@ -1,19 +1,47 @@
+<style>
+td, th,tr,table {
+   border: none!important;
+   padding:0;
+}
+img {
+  display:block;
+  max-width:100%;
+  height: auto;
+}
+table h2 {
+  font-size: 30px;
+}
+td img {
+  border-radius: 50%;
+}
+</style>
+
 # Hi there 👋
 
-<p>
-![NdekoCode](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=35&weight=bold&lines=Call+me+Arick+Bulakali;NdekoCode)</p>
+![NdekoCode](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=bold&lines=Call+me+Arick+Bulakali;NdekoCode)
 
-## About me
+<table>
+    <tbody>
+        <tr  border:none;>
+            <td align="center">
+<h2>About me</h2>
+<ul>
 
-- I’m passionate about Web && Machine Learning
-- 🔭 I’m currently learning Laravel and MEVN
-- 🌱 I’m currently experimenting the web ecosystem
-- 👯 I’m looking to collaborate on solving problems with software
-- 💬 Ask me about anything web-related, I might have a hint
-- 📫 How to reach me: arickbulakali@gmail.com
+<li> I’m passionate about Web && Machine Learning</li>
+<li> 🔭 I’m currently learning Laravel and MEVN</li>
+<li> 🌱 I’m currently experimenting the web ecosystem</li>
+<li> 👯 I’m looking to collaborate on solving problems with software</li>
+<li> 💬 Ask me about anything web-related, I might have a hint</li>
+<li> 📫 How to reach me: arickbulakali@gmail.com</li>
 
-- ⚡ "*build your futur in technology*"
-
+<li> ⚡ <em>"*build your futur in technology*"</em></li>
+</ul></td>
+            <td align="center">
+<img src="./assets/img/ndekocode.png"/></td>
+        </tr>
+    </tbody>
+</table>
+<p align="right"></p>
 ## Open source projects
 
 <table align="center">
