@@ -1,26 +1,8 @@
-<style>
-td, th,tr,table {
-   border: none!important;
-   padding:0;
-}
-img {
-  display:block;
-  max-width:100%;
-  height: auto;
-}
-table h2 {
-  font-size: 30px;
-}
-td img {
-  border-radius: 50%;
-}
-</style>
-
 # Hi there 👋
 
 ![NdekoCode](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=bold&lines=Call+me+Arick+Bulakali;NdekoCode)
 
-<table>
+<table cellspacing="0" cellpadding="0">
     <tbody>
         <tr  border:none;>
             <td align="center">
@@ -37,11 +19,12 @@ td img {
 <li> ⚡ <em>"*build your futur in technology*"</em></li>
 </ul></td>
             <td align="center">
-<img src="./assets/img/ndekocode.png"/></td>
+<img src="./assets/img/ndekocode.png"/ style="border-radius:50%;"></td>
         </tr>
     </tbody>
 </table>
 <p align="right"></p>
+
 ## Open source projects
 
 <table align="center">
