@@ -1,4 +1,8 @@
-# Hi there 👋. ![NdekoCode](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=55&weight=bold&lines=Call+me+Arick+Bulakali;NdekoCode)
+# Hi there 👋
+
+![NdekoCode](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=35&weight=bold&lines=Call+me+Arick+Bulakali;NdekoCode)
+
+## About me
 
 - I’m passionate about Web && Machine Learning
 - 🔭 I’m currently learning Laravel and MEVN
@@ -6,7 +10,6 @@
 - 👯 I’m looking to collaborate on solving problems with software
 - 💬 Ask me about anything web-related, I might have a hint
 - 📫 How to reach me: arickbulakali@gmail.com
--
 
 - ⚡ "*build your futur in technology*"
 
@@ -24,18 +27,32 @@
   </thead>
   <tbody align="center">
     <tr>
-      <td><a href="https://github.com/NdekoCode/food-delivrery"><b>Quiz App</b></a></td>
+      <td><a href="https://github.com/NdekoCode/Quiz-App-GDA"><b>Quiz App</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/NdekoCode/Quiz-App-GDA?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/NdekoCode/Quiz-App-GDA?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/NdekoCode/Quiz-App-GDA?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NdekoCode/Carousel-plugin?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NdekoCode/Carousel-plugin"><b>Carousel-plugin</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/NdekoCode/Carousel-plugin?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/NdekoCode/Carousel-plugin?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/NdekoCode/Carousel-plugin?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NdekoCode/Carousel-plugin?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NdekoCode/dashbord-intergration"><b>dashbord-intergration</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/NdekoCode/dashbord-intergration?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/NdekoCode/dashbord-intergration?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/NdekoCode/dashbord-intergration?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NdekoCode/dashbord-intergration?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/NdekoCode/food-delivrery"><b>dashbord-intergration</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/NdekoCode/blog?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/NdekoCode/dashbord-intergration?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/NdekoCode/landingpage-designers-agency"><b>landingpage-designers-agency</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/NdekoCode/landingpage-designers-agency?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/NdekoCode/landingpage-designers-agency?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/NdekoCode/landingpage-designers-agency?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NdekoCode/dashbord-intergration?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NdekoCode/landingpage-designers-agency?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -108,15 +125,15 @@
 <a href="https://wa.me/243824212440/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-NdekoCode-lime?style=flat-square&logo=WhatsApp"> </a>
 </p>
 
+<h2 align="center">🛠 Stars:</h2>
+<p align="left" width="100%" >
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NdekoCode&show_icons=true&count_private=true" alt="NdekoCode" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NdekoCode" alt="NdekoCode" />
+</p>
+
 ## ❤ Views and Followers
 
 <a href="https://github.com/NdekoCode/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NdekoCode">
 </a>
 <a href="https://github.com/NdekoCode?tab=followers"><img src="https://img.shields.io/github/followers/NdekoCode?label=Followers&style=social" alt="GitHub Badge"></a>
-
-<h2 align="center">🛠 Stars:</h2>
-<p align="left" width="100%" >
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NdekoCode&show_icons=true&count_private=true" alt="NdekoCode" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NdekoCode" alt="NdekoCode" />
-</p>
