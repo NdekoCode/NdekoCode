@@ -1,6 +1,7 @@
 # Hi there 👋
 
-![NdekoCode](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=35&weight=bold&lines=Call+me+Arick+Bulakali;NdekoCode)
+<p>
+![NdekoCode](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=35&weight=bold&lines=Call+me+Arick+Bulakali;NdekoCode)</p>
 
 ## About me
 
