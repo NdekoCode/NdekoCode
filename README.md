@@ -134,7 +134,6 @@
 <a href="https://www.instagram.com/NdekoCode/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-NdekoCode-blue?style=flat-square&logo=Instagram"> </a>
 <a href="mailto:arickbulakali@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arickbulakali@gmail.com-orange?style=flat-square&logo=Gmail"></a>
 <a href="https://wa.me/243991487950/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-NdekoCode-lime?style=flat-square&logo=WhatsApp"> </a>
-<a href="https://wa.me/243824212440/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-NdekoCode-lime?style=flat-square&logo=WhatsApp"> </a>
 </p>
 
 <h2 align="center">🛠 Stars:</h2>
