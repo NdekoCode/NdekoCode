@@ -1,4 +1,4 @@
-# Hi there 👋. <strong>Arick Bulakali</strong>
+# Hi there 👋. ![NdekoCode](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=55&weight=bold&lines=Call+me+Arick+Bulakali;NdekoCode)
 
 - I’m passionate about Web && Machine Learning
 - 🔭 I’m currently learning Laravel and MEVN
