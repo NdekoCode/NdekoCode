@@ -9,7 +9,7 @@
 <h2>About me</h2>
 <ul>
 
-<li> I’m passionate about Web && Machine Learning</li>
+<li> I’m passionate about Web & Machine Learning</li>
 <li> 🔭 I’m currently learning Laravel and MEVN</li>
 <li> 🌱 I’m currently experimenting the web ecosystem</li>
 <li> 👯 I’m looking to collaborate on solving problems with software</li>
