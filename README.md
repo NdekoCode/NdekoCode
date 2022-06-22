@@ -91,6 +91,31 @@
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
   <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
+[![NdekoCode's github activity graph](https://activity-graph.herokuapp.com/graph?username=NdekoCode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/NdekoCode/github-readme-activity-graph)
+<br/>
+<br/>
+
+<h3> 🤝🏻 Hangout with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/arick-bukakali-ndekocode/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-NdekoCode-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/NdekoCode"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-NdekoCode-blue?style=flat-square&logo=twitter"></a>
+<a href="https://dev.to/NdekoCode"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-NdekoCode-blue?style=flat-square&logo=dev.to"></a>
+<a href="https://www.facebook.com/NdekoCode/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-NdekoCode-blue?style=flat-square&logo=Facebook"> </a>
+<a href="https://www.instagram.com/NdekoCode/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-NdekoCode-blue?style=flat-square&logo=Instagram"> </a>
+<a href="mailto:NdekoCode@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-NdekoCode@outlook.com-red?style=flat-square&logo=Microsoft%20Outlook"></a>
+<a href="mailto:NdekoCode@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-NdekoCode@gmail.com-orange?style=flat-square&logo=Gmail"></a>
+<a href="https://wa.me/243977551835/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-NdekoCode-lime?style=flat-square&logo=WhatsApp"> </a>
+<a href="https://wa.me/243824212440/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-NdekoCode-lime?style=flat-square&logo=WhatsApp"> </a>
+</p>
+
+## ❤ Views and Followers
+
+<a href="https://github.com/NdekoCode/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=NdekoCode">
+</a>
+<a href="https://github.com/NdekoCode?tab=followers"><img src="https://img.shields.io/github/followers/NdekoCode?label=Followers&style=social" alt="GitHub Badge"></a>
+
 <h2 align="center">🛠 Stars:</h2>
 <p align="left" width="100%" >
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NdekoCode&show_icons=true&count_private=true" alt="NdekoCode" />
