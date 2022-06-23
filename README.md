@@ -6,7 +6,7 @@
     <tbody>
         <tr  border:none;>
             <td align="center">
-<h2>About me</h2>
+<h2>👨🏻‍💻 About Me</h2>
 <ul>
 
 <li> I’m passionate about <strong>Web</strong> & <strong>Machine Learning</strong></li>
@@ -100,7 +100,8 @@
   />
 </p>
 
-<h2 align="left">🛠 Languages and Tools:</h2>
+<h2 align="left">🛠 Languages, Tech Stack
+ and Tools:</h2>
 
 <p align="center" width="100"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NdekoCode&show_icons=true&locale=en" alt="NdekoCode" /></p>
 
