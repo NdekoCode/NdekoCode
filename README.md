@@ -5,7 +5,7 @@
 <table cellspacing="0" cellpadding="0">
     <tbody>
         <tr  border:none;>
-            <td align="center">
+            <td>
 <h2>👨🏻‍💻 About Me</h2>
 <ul>
 
