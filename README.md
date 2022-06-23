@@ -17,9 +17,11 @@
 <li> 📫 How to reach me: arickbulakali@gmail.com</li>
 
 <li> ⚡ <em>"*build your futur in technology*"</em></li>
-</ul></td>
-            <td align="center">
-<img src="./assets/img/ndekocode.png"/ style="border-radius:50%;"></td>
+</ul>
+</td>
+<td align="center">
+<img src="./assets/img/ndekocode.png" width="60%" style="border-radius:50%;">
+</td>
         </tr>
     </tbody>
 </table>
