@@ -206,7 +206,7 @@
 </table>
 
 <p align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NdekoCode&show_icons=true&locale=en" alt="NdekoCode" w />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NdekoCode&show_icons=true&locale=en" alt="NdekoCode" width="250" />
 </p>
 
 
