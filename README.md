@@ -28,27 +28,8 @@
 
 <h2 align="left">🛠 Languages, Tech Stack
  and Tools:</h2>
-
-<p align="center" width="100"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NdekoCode&show_icons=true&locale=en" alt="NdekoCode" /></p>
-
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-
-<table align="center">
+ 
+<table align="left">
   <tr>
       <td align="center" width="96">
       <a href="#html5">
@@ -224,12 +205,17 @@
   </tr>
 </table>
 
-<h4 align="center">:eyes:</h4>
+<p align="right" width="100">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NdekoCode&show_icons=true&locale=en" alt="NdekoCode" />
+</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{NdekoCode}/count.svg" alt="roland :: NdekoCode Visitor's Count" /></p>
+[![NdekoCode's github activity graph](https://activity-graph.herokuapp.com/graph?username=NdekoCode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/NdekoCode/github-readme-activity-graph)
+<br/>
+<br/>
 
-## Open source projects
 
+<h2 align="center">Open source projects and Tools:</h2>
+ 
 <table align="center">
   <thead align="center">
     <tr border: none;>
@@ -272,6 +258,21 @@
   </tbody>
 </table>
 
+
+## ❤ Views and Followers :eyes:
+
+
+<p align="center">
+    
+<a href="https://github.com/NdekoCode/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=NdekoCode">
+</a>
+    <a href="https://github.com/NdekoCode?tab=followers">
+        <img src="https://img.shields.io/github/followers/NdekoCode?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+</p>
+<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: NdekoCode Visitor's Count" /></p>
+
 ## My Github Stats
 
 <p>
@@ -304,10 +305,6 @@
 </p>
 
 
-[![NdekoCode's github activity graph](https://activity-graph.herokuapp.com/graph?username=NdekoCode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/NdekoCode/github-readme-activity-graph)
-<br/>
-<br/>
-
 <h3> 🤝🏻 Hangout with Me </h3>
 
 <p align="center">
@@ -325,9 +322,3 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NdekoCode" alt="NdekoCode" />
 </p>
 
-## ❤ Views and Followers
-
-<a href="https://github.com/NdekoCode/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NdekoCode">
-</a>
-<a href="https://github.com/NdekoCode?tab=followers"><img src="https://img.shields.io/github/followers/NdekoCode?label=Followers&style=social" alt="GitHub Badge"></a>
