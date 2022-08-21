@@ -209,6 +209,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NdekoCode&show_icons=true&locale=en" alt="NdekoCode" />
 </p>
 
+
 [![NdekoCode's github activity graph](https://activity-graph.herokuapp.com/graph?username=NdekoCode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/NdekoCode/github-readme-activity-graph)
 <br/>
 <br/>
@@ -258,9 +259,7 @@
   </tbody>
 </table>
 
-
-## ❤ Views and Followers :eyes:
-
+<h2 align="center"> 🤝❤ Views and Followers :eyes:</h2>
 
 <p align="center">
     
@@ -271,10 +270,10 @@
         <img src="https://img.shields.io/github/followers/NdekoCode?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
+
 <p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: NdekoCode Visitor's Count" /></p>
 
-## My Github Stats
-
+<h2 align="center">My Github Stats</h2>
 <p>
   <img
     align="left"
@@ -305,7 +304,7 @@
 </p>
 
 
-<h3> 🤝🏻 Hangout with Me </h3>
+<h3 align="center"> 🤝🏻 Hangout with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/arick-bukakali-ndekocode/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-NdekoCode-blue?style=flat-square&logo=linkedin"></a>
@@ -317,6 +316,7 @@
 </p>
 
 <h2 align="center">🛠 Stars:</h2>
+
 <p align="left" width="100%" >
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NdekoCode&show_icons=true&count_private=true" alt="NdekoCode" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NdekoCode" alt="NdekoCode" />
