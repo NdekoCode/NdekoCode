@@ -242,7 +242,6 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/NdekoCode/Carousel-plugin?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NdekoCode/Carousel-plugin?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    
     <tr>
       <td><a href="https://github.com/NdekoCode/spotify-app"><b>Spotify-app</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/NdekoCode/spotify-app?style=flat-square&labelColor=343b41"/></td>
@@ -250,7 +249,6 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/NdekoCode/spotify-app?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NdekoCode/spotify-app?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    
     <tr>
       <td><a href="https://github.com/NdekoCode/simple-clone-wiki-search"><b>Wiki Search</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/NdekoCode/simple-clone-wiki-search?style=flat-square&labelColor=343b41"/></td>
