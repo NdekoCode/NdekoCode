@@ -29,7 +29,7 @@
 <h2 align="left">🛠 Languages, Tech Stack
  and Tools:</h2>
  
-<table align="left">
+<table align="center">
   <tr>
       <td align="center" width="96">
       <a href="#html5">
@@ -205,7 +205,7 @@
   </tr>
 </table>
 
-<p align="right">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NdekoCode&show_icons=true&locale=en" alt="NdekoCode" width="250" />
 </p>
 
