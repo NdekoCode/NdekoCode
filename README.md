@@ -14,7 +14,7 @@
 <li> 🌱 I’m currently experimenting the web ecosystem</li>
 <li> 👯 I’m looking to collaborate on solving problems with software</li>
 <li> 💬 Ask me about anything web-related, I might have a hint</li>
-<li><a href="mailto:arickbulakali@ndekocode.com"> 📫 How to reach me: arickbulakali@ndekocode.com</a></li>
+<li>📫 How to reach me: <a href="mailto:arickbulakali@ndekocode.com">arickbulakali@ndekocode.com</a></li>
 
 <li> ⚡ <em>"*build your futur in technology*"</em></li>
 </ul>
