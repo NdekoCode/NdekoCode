@@ -6,7 +6,7 @@
     <tbody>
         <tr  border:none;>
             <td>
-<h2>👨🏻‍💻 About Me</h2>
+<h2 align="center">👨🏻‍💻 About Me</h2>
 <ul>
 
 <li> I’m passionate about <strong>Web</strong> & <strong>Machine Learning</strong></li>
@@ -26,7 +26,7 @@
     </tbody>
 </table>
 
-<h2 align="left">🛠 Languages, Tech Stack
+<h2 align="center">🛠 Languages, Tech Stack
  and Tools:</h2>
  
 <table align="center">
