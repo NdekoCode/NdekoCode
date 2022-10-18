@@ -183,7 +183,7 @@
       <br>Heroku
     </td>
      <td align="center" width="96">
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mozilla/mozilla-original.svg" alt="mozilla" width="40" height="40"/> </a> 
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://mozilla.github.io/foundation-icons/svgs/mozilla-logo.svg" alt="mozilla" width="40" height="40"/> </a> 
       <br>Mozilla
     </td>
       <td align="center" width="96">
