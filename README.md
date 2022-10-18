@@ -183,7 +183,7 @@
       <br>Heroku
     </td>
      <td align="center" width="96">
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mozilla/mozilla-original.svg" alt="mozilla" width="40" height="40"/> </a> 
       <br>Mozilla
     </td>
       <td align="center" width="96">
@@ -204,6 +204,7 @@
     </td>
   </tr>
 </table>
+
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NdekoCode&show_icons=true&locale=en" alt="NdekoCode" width="250" />
