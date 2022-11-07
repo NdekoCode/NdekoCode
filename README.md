@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![NdekoCode](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=bold&lines=Call+me+Arick+Bulakali;NdekoCode)
+![NdekoCode](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Arick+Bulakali;NdekoCode)
 
 <table cellspacing="0" cellpadding="0">
     <tbody>
