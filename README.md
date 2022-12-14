@@ -251,6 +251,13 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NdekoCode/spotify-app?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/NdekoCode/spotify-app"><b>gda-chat-front</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/NdekoCode/gda-chat-front?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/NdekoCode/gda-chat-front?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/NdekoCode/gda-chat-front?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NdekoCode/gda-chat-front?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/NdekoCode/simple-clone-wiki-search"><b>Wiki Search</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/NdekoCode/simple-clone-wiki-search?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/NdekoCode/simple-clone-wiki-search?style=flat-square&labelColor=343b41"/></td>
