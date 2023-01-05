@@ -213,7 +213,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NdekoCode&show_icons=true&locale=en" alt="NdekoCode" width="250" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NdekoCode&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NdekoCode&bg_color=1a191a&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
