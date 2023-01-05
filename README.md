@@ -2,6 +2,7 @@
 
 ![NdekoCode](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Arick+Bulakali;NdekoCode)
 
+<img src="./assets/img/banner.gif">
 <table cellspacing="0" cellpadding="0">
     <tbody>
         <tr  border:none;>
@@ -20,7 +21,7 @@
 </ul>
 </td>
 <td align="center">
-<img src="./assets/img/banner.gif" width="60%">
+<img src="./assets/img/banner.gif">
 </td>
         </tr>
     </tbody>
