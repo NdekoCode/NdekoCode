@@ -1,12 +1,9 @@
-# Hi there 👋
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Ndekocode" title="👋 Hi there! I'm Ndekocode"/>
 
 ![NdekoCode](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Arick+Bulakali;NdekoCode)
 
-<table cellspacing="0" cellpadding="0">
-    <tbody>
-        <tr  border:none;>
-            <td>
-<h2 align="center">👨🏻‍💻 About Me</h2>
+
+<h2>👨🏻‍💻 About Me</h2>
 <ul>
 
 <li> I’m passionate about <strong>Web</strong> & <strong>Machine Learning</strong></li>
@@ -18,13 +15,7 @@
 
 <li> ⚡ <em>"*build your futur in technology*"</em></li>
 </ul>
-</td>
-<td align="center">
-<img src="./assets/img/ndekocode.png" width="60%" style="border-radius:50%;">
-</td>
-        </tr>
-    </tbody>
-</table>
+
 
 
 ## My favorite tools and technologies ⚙️ 
