@@ -2,11 +2,8 @@
 
 ![NdekoCode](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Arick+Bulakali;NdekoCode)
 
-<img src="./assets/img/banner.gif">
-<table cellspacing="0" cellpadding="0">
-    <tbody>
-        <tr  border:none;>
-            <td>
+<img src="./assets/img/banner.gif" align="center" width="100%">
+
 <h2 align="center">👨🏻‍💻 About Me</h2>
 <ul>
 
@@ -19,13 +16,6 @@
 
 <li> ⚡ <em>"*build your futur in technology*"</em></li>
 </ul>
-</td>
-<td align="center">
-<img src="./assets/img/banner.gif">
-</td>
-        </tr>
-    </tbody>
-</table>
 
 
 ## My favorite tools and technologies ⚙️ 
