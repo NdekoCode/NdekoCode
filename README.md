@@ -15,7 +15,9 @@
 <li> ⚡ <em>"*build your futur in technology*"</em></li>
 </ul>
 
-<img src="./assets/img/banner.gif" align="center" width="100%">
+<div>
+<img src="./assets/img/banner-fullstack.gif" align="center" width="100%">
+</div>
 
 
 ## My favorite tools and technologies ⚙️ 
