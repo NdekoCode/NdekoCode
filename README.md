@@ -304,12 +304,12 @@
     align="left"
     width="51%"
     alt="My Stats"
-    src="https://github-readme-stats.vercel.app/api?username=NdekoCode&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=NdekoCode&show_icons=true&count_private=true&theme=radical"
   />
   <img
     width="45%"
     alt="Top langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NdekoCode&show_icons=true&theme=radical&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NdekoCode&show_icons=true&&count_private=true&theme=radical&layout=compact"
   />
 </p>
 
