@@ -6,13 +6,13 @@
 <ul>
 
 <li> I’m passionate about <strong>Web</strong> & <strong>Machine Learning</strong></li>
-<li> 🔭 I’m currently learning <strong>Laravel</strong> and <strong>MEVN</strong></li>
+<li> 🔭 I’m currently learning <strong>Angular</strong> and <strong>NestJS</strong></li>
 <li> 🌱 I’m currently experimenting the web ecosystem</li>
 <li> 👯 I’m looking to collaborate on solving problems with software</li>
 <li> 💬 Ask me about anything web-related, I might have a hint</li>
 <li>📫 How to reach me: <a href="mailto:arickbulakali@ndekocode.com">arickbulakali@ndekocode.com</a></li>
 
-<li> ⚡ <em>"*build your futur in technology*"</em></li>
+<li> ⚡ <em>"*build your future in technology*"</em></li>
 </ul>
 
 <div>
