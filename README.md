@@ -311,32 +311,31 @@
 <p>
   <img
     align="left"
-    width="51%"
+    width="45%"
     alt="My Stats"
-       src="https://github-profile-trophy.vercel.app/?username=NdekoCode&show_icons=true&count_private=true&theme=radical&no-frame=true&column=3&row=2"
+    src="https://github-readme-stats.vercel.app/api?username=NdekoCode&show_icons=true&theme=radical"
   />
   <img
     width="45%"
     alt="Top langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NdekoCode&show_icons=true&&count_private=true&theme=radical&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NdekoCode&show_icons=true&theme=radical&layout=compact"
   />
 </p>
 
 <p>
   <img
-    width="50%"
+    width="45%"
     height="200"
     alt="GitHub Streak Stats"
     src="https://github-profile-trophy.vercel.app/?username=NdekoCode&theme=radical&no-frame=true&column=3&row=2"
   />
   <img
-    width="47%"
+    width="45%"
     height="200"
     alt="GitHub Streak Stats"
     src="https://github-readme-streak-stats.herokuapp.com/?user=NdekoCode&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
   />
 </p>
-
 
 <h3 align="center"> 🤝🏻 Hangout with Me </h3>
 
