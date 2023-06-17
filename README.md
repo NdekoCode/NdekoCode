@@ -313,7 +313,7 @@
     align="left"
     width="51%"
     alt="My Stats"
-    src="https://github-readme-stats.vercel.app/api?username=NdekoCode&show_icons=true&count_private=true&theme=radical"
+       src="https://github-profile-trophy.vercel.app/?username=NdekoCode&show_icons=true&count_private=true&theme=radical&no-frame=true&column=3&row=2"
   />
   <img
     width="45%"
