@@ -15,10 +15,22 @@
 <li> ⚡ <em>"*build your future in technology*"</em></li>
 </ul>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <div>
 <img src="./assets/img/banner-fullstack.gif" align="center" width="100%">
 </div>
 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## My favorite tools and technologies ⚙️ 
 
@@ -211,12 +223,18 @@
 
 </table>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NdekoCode&show_icons=true&locale=en" alt="NdekoCode" width="250" />
-</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ndekocode&bg_color=0d1117&color=ffffff&line=4c9e91&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -305,7 +323,11 @@
     </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: NdekoCode Visitor's Count" /></p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <h2 align="center">My Github Stats</h2>
 <p>
@@ -337,6 +359,12 @@
   />
 </p>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <h3 align="center"> 🤝🏻 Hangout with Me </h3>
 
 <p align="center">
@@ -347,6 +375,12 @@
 <a href="mailto:arickbulakali@ndekocode.com"><img alt="Email" src="https://img.shields.io/badge/Email-arickbulakali@ndekocode.com-orange?style=flat-square&logo=Gmail"></a>
 <a href="https://wa.me/243991487950/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-NdekoCode-lime?style=flat-square&logo=WhatsApp"> </a>
 </p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <h2 align="center">🛠 Stars:</h2>
 
