@@ -2,7 +2,9 @@
 
 ![NdekoCode](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Arick+Bulakali;NdekoCode)
 
-<h2 align="center">👨🏻‍💻 About Me</h2>
+
+## 👨🏻‍💻 About Me
+
 <ul>
 
 <li> I’m passionate about <strong>Web</strong> & <strong>Machine Learning</strong></li>
@@ -15,8 +17,6 @@
 <li> ⚡ <em>"*build your future in technology*"</em></li>
 </ul>
 
-<br/>
-<br/>
 <br/>
 
 <div>
@@ -217,8 +217,6 @@
 </table>
 
 <br/>
-<br/>
-<br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ndekocode&bg_color=0d1117&color=ffffff&line=4c9e91&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -311,8 +309,6 @@
 </p>
 
 <br/>
-<br/>
-<br/>
 
 <h2 align="center">My Github Stats</h2>
 <p>
@@ -345,7 +341,6 @@
 </p>
 
 <br/>
-<br/>
 
 <h3 align="center"> 🤝🏻 Hangout with Me </h3>
 
@@ -358,7 +353,6 @@
 <a href="https://wa.me/243991487950/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-NdekoCode-lime?style=flat-square&logo=WhatsApp"> </a>
 </p>
 
-<br/>
 <br/>
 
 <h2 align="center">🛠 Stars:</h2>
