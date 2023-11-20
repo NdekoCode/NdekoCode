@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=3594F4&size=46&width=500&height=76&lines=Hi there+%F0%9F%91%8B%2C+I'm+Arick+Bulakali" alt="Ndekocode" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=3594F4&size=46&width=500&height=76&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Arick+Bulakali" alt="Ndekocode" /></h1>
 
 <h5 align="center"><em>A passionate fulstack web developer </em></h5>
 
@@ -8,7 +8,7 @@
 ## 👨🏻‍💻 About Me
 
 
-![NdekoCode](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Arick+Bulakali;NdekoCode)
+![NdekoCode](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=%F0%9F%91%8B%2C+Call+me+NdekoCode)
 
 <ul>
 
