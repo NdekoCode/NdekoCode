@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=3594F4&size=46&width=500&height=76&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Arick+Bulakali;Call+me+NdekoCode" alt="Ndekocode" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=3594F4&size=46&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Arick+Bulakali;Call+me+NdekoCode" alt="Ndekocode" /></h1>
 
 ## 👨🏻‍💻 About Me
 
