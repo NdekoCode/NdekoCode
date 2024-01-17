@@ -284,11 +284,11 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NdekoCode/dashbord-intergration?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/NdekoCode/landingpage-designers-agency"><b>landingpage-designers-agency</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/NdekoCode/landingpage-designers-agency?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/NdekoCode/landingpage-designers-agency?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/NdekoCode/landingpage-designers-agency?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NdekoCode/landingpage-designers-agency?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/NdekoCode/landingpage-designers-agency"><b>Ever Teams</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ever-co/ever-teams?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ever-co/ever-teams?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ever-co/ever-teams?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ever-co/ever-teams?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
