@@ -349,13 +349,3 @@
 <a href="mailto:arickbulakali@ndekocode.com"><img alt="Email" src="https://img.shields.io/badge/Email-arickbulakali@ndekocode.com-orange?style=flat-square&logo=Gmail"></a>
 <a href="https://wa.me/243991487950/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-NdekoCode-lime?style=flat-square&logo=WhatsApp"> </a>
 </p>
-
-<br/>
-
-<h2 align="center">🛠 Stars:</h2>
-
-<p align="left" width="100%" >
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NdekoCode&show_icons=true&count_private=true" alt="NdekoCode" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NdekoCode" alt="NdekoCode" />
-</p>
-
