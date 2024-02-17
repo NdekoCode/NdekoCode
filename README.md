@@ -1,5 +1,5 @@
 
-<img width=100% src="./assets/welcome.svg" color="00bfbf">
+<img alt="Welcome Text" width=100% src="assets/welcome.svg" color="#00bfbf">
 <br/>
 
 <h1 align="center">
