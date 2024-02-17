@@ -1,5 +1,9 @@
 
-<img width=100% src="./assets/welcome.svg" color="00bfbf">
+<img width=100% src="/assets/welcome.svg" color="00bfbf">
+<br/>
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=3594F4&size=46&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Arick+Bulakali;Call+me+NdekoCode" alt="Ndekocode" /></h1>
 
 ## 👨🏻‍💻 About Me
 
@@ -409,6 +413,8 @@
     </a>
 </p>
 
+   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+
 <br/>
 
 <!-- START My Github Profile Trophy SECTION -->
@@ -447,6 +453,8 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=NdekoCode&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
   />
 </p>
+
+   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <br/>
 
