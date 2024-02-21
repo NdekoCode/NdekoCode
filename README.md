@@ -419,7 +419,7 @@
   <h2 align="center">My Github Profile Stats and Trophy</h2>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shakiliitju&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ndekocode&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
 
 <p>
   <img
