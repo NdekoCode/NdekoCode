@@ -14,7 +14,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
-
 <!-- START Learning Tecnologias SECTION -->
 ## Learning Tecnologias</h2>
 
@@ -103,7 +102,6 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000"/>
 <!-- START Contribution Graph SECTION -->
@@ -206,25 +204,14 @@
 <br/>
 
 <!-- START My Github Profile Trophy SECTION -->
+<p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+  <h2 align="center">My Github Profile Stats and Trophy</h2>
+</p>
 
-## My Github Profile Stats and Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ndekocode&theme=radical&margin-w=40&margin-h=40)](https://github.com/ndekocode)
-
-<p>
-  <img
-    align="left"
-    width="45%"
-    alt="My Stats"
-    src="https://github-readme-stats.vercel.app/api?username=NdekoCode&show_icons=true&theme=radical&private=true"
-  />
-  <img
-    width="45%"
-    height="200"
-    alt="GitHub Streak Stats"
-    src="https://github-profile-trophy.vercel.app/?username=NdekoCode&theme=radical&no-frame=true&column=3&row=2"
-  />
+<p align="center" style="width:100%">
+  <img height="180em" width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=NdekoCode&theme=gotham&hide_border=true" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sineastra&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&show_icons=true"/>  -->
 </p>
 
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
