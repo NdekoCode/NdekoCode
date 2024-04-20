@@ -1,24 +1,29 @@
-
 <img alt="Welcome Text" width=100% src="assets/welcome.svg" color="#00bfbf">
 
-## 
-> **👨🏻‍💻 About Me :** I'm a software engineer with experience solving enterprise-level challenges using JavaScript / TypeScript technologies. I'm a 🌐 Open Source Enthusiast, writing and sharing knowledge. I love reading books, gaining new knowledge, I'm also a manga and Webtoons enthusiast, an Otaku ⛩️🌸🍥☯🍜 Confirm, to pass the time I like to play chess.
+## 👨🏻‍💻 About Me
 
 <ul>
-   <li>😍 I’m <strong>Creative Development</strong> lover </li>
-   <li>📚 I’m currently learning <strong>React Native</strong> & <strong>NestJS</strong></li>
-   <li>🤔 I'm interested in learning <strong>Angular</strong> in depth and 🧐 currently experimenting the web ecosystem with <strong>NextJS</strong> </li>
-   <li>💬 Ask me about anything web-related, I might have a hint</li>
-   <li>🔎 I’m looking to collaborate on solving problems with software and open source projects</li>
-   <li>📫 How to reach me: <a href="mailto:arickbulakali@ndekocode.com">arickbulakali@ndekocode.com</a></li>
-   <li>⚡ <em>"*build your future with technology*"</em></li>
-</ul>
+
+<li> I’m passionate about <strong>Creative Development</strong> & <strong>Machine Learning</strong></li>
+<li> 🔭 I’m currently learning <strong>Angular</strong> and <strong>NestJS</strong></li>
+<li> 🌱 I’m currently experimenting the web ecosystem with next.js</li>
+<li> 👯 I’m looking to collaborate on solving problems with software</li>
+<li> 💬 Ask me about anything web-related, I might have a hint</li>
+<li>📫 How to reach me: <a href="mailto:arickbulakali@ndekocode.com">arickbulakali@ndekocode.com</a></li>
+
+<li> ⚡ <em>"*build your future in technology*"</em></li>
 </ul>
 
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <br/>
 
+<div>
+
+<img src="./assets/images/banner-fullstack.gif" align="center" width="100%">
+</div>
+
+   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <br/>
 
@@ -26,26 +31,27 @@
 <p align="center">
  <h2 align="center">Learning Tecnologias</h2>
 
-|                                                          |                   |                                      |                                                      |                 |                                      |
-| -------------------------------------------------------- | ----------------- | ------------------------------------ | ---------------------------------------------------- | --------------- | ------------------------------------ |
-| ![typescript](./assets/images/technologies/typescript.png)               | TypeScript        | ![80%](https://progress-bar.dev/80/) | ![node](./assets/images/technologies/node.png)                       | Node            | ![80%](https://progress-bar.dev/80/) |
-| ![express](./assets/images/technologies/express.png)                     | Express           | ![80%](https://progress-bar.dev/80/) | ![nest](./assets/images/technologies/nest.png)                       | Nest            | ![80%](https://progress-bar.dev/80/) |
-| ![graphql](https://techstack-generator.vercel.app/graphql-icon.svg)                     | GraphQL           | ![80%](https://progress-bar.dev/80/) | ![typeorm](./assets/images/technologies/typeorm.png)                 | TypeORM         | ![80%](https://progress-bar.dev/80/) |
-| ![prisma](./assets/images/technologies/prisma.png)                       | Prisma            | ![80%](https://progress-bar.dev/80/) | ![sequelize](./assets/images/technologies/sequelize.png)             | Sequelize       | ![80%](https://progress-bar.dev/80/) |
-| ![mongoose](./assets/images/technologies/mongoose.png)                   | Mongoose          | ![40%](https://progress-bar.dev/40/) | ![postgresql](./assets/images/technologies/postgresql.png)           | PostgreSQL      | ![80%](https://progress-bar.dev/80/) |
-| ![mongodb](./assets/images/technologies/mongodb.png)                     | MongoDB           | ![40%](https://progress-bar.dev/40/) | ![jest](./assets/images/technologies/jest.png)                       | Jest            | ![80%](https://progress-bar.dev/80/) |
-| ![mocha](./assets/images/technologies/mocha.png)                         | Mocha             | ![80%](https://progress-bar.dev/80/) | ![docker](./assets/images/technologies/docker.png)                   | Docker          | ![60%](https://progress-bar.dev/60/) |
-| ![react](./assets/images/technologies/react.png)                         | React             | ![80%](https://progress-bar.dev/80/) | ![next](./assets/images/technologies/next.png)                       | Next            | ![40%](https://progress-bar.dev/40/) |
-| ![redux](./assets/images/technologies/redux.png)                         | Redux             | ![80%](https://progress-bar.dev/80/) | ![css-modules](./assets/images/technologies/css-modules.png)         | CSS Modules     | ![80%](https://progress-bar.dev/80/) |
-| ![styled-components](./assets/images/technologies/styled-components.png) | Styled Components | ![80%](https://progress-bar.dev/80/) | ![material-ui](./assets/images/technologies/material-ui.png)         | Material UI     | ![80%](https://progress-bar.dev/80/) |
-| ![aws](./assets/images/technologies/aws.png)                             | AWS               | ![50%](https://progress-bar.dev/60/) | ![git](./assets/images/technologies/git.png)                         | Git             | ![80%](https://progress-bar.dev/80/) |
+|                                                                          |                   |                                      |                                                              |             |                                      |
+| ------------------------------------------------------------------------ | ----------------- | ------------------------------------ | ------------------------------------------------------------ | ----------- | ------------------------------------ |
+| ![typescript](./assets/images/technologies/typescript.png)               | TypeScript        | ![80%](https://progress-bar.dev/80/) | ![node](./assets/images/technologies/node.png)               | Node        | ![80%](https://progress-bar.dev/80/) |
+| ![express](./assets/images/technologies/express.png)                     | Express           | ![80%](https://progress-bar.dev/80/) | ![nest](./assets/images/technologies/nest.png)               | Nest        | ![80%](https://progress-bar.dev/80/) |
+| ![graphql](./assets/images/technologies/graphql.png)                     | GraphQL           | ![80%](https://progress-bar.dev/80/) | ![typeorm](./assets/images/technologies/typeorm.png)         | TypeORM     | ![80%](https://progress-bar.dev/80/) |
+| ![prisma](./assets/images/technologies/prisma.png)                       | Prisma            | ![80%](https://progress-bar.dev/80/) | ![sequelize](./assets/images/technologies/sequelize.png)     | Sequelize   | ![80%](https://progress-bar.dev/80/) |
+| ![mongoose](./assets/images/technologies/mongoose.png)                   | Mongoose          | ![40%](https://progress-bar.dev/40/) | ![postgresql](./assets/images/technologies/postgresql.png)   | PostgreSQL  | ![80%](https://progress-bar.dev/80/) |
+| ![mongodb](./assets/images/technologies/mongodb.png)                     | MongoDB           | ![40%](https://progress-bar.dev/40/) | ![jest](./assets/images/technologies/jest.png)               | Jest        | ![80%](https://progress-bar.dev/80/) |
+| ![mocha](./assets/images/technologies/mocha.png)                         | Mocha             | ![80%](https://progress-bar.dev/80/) | ![docker](./assets/images/technologies/docker.png)           | Docker      | ![60%](https://progress-bar.dev/60/) |
+| ![react](./assets/images/technologies/react.png)                         | React             | ![80%](https://progress-bar.dev/80/) | ![next](./assets/images/technologies/next.png)               | Next        | ![40%](https://progress-bar.dev/40/) |
+| ![redux](./assets/images/technologies/redux.png)                         | Redux             | ![80%](https://progress-bar.dev/80/) | ![css-modules](./assets/images/technologies/css-modules.png) | CSS Modules | ![80%](https://progress-bar.dev/80/) |
+| ![styled-components](./assets/images/technologies/styled-components.png) | Styled Components | ![80%](https://progress-bar.dev/80/) | ![material-ui](./assets/images/technologies/material-ui.png) | Material UI | ![80%](https://progress-bar.dev/80/) |
+| ![aws](./assets/images/technologies/aws.png)                             | AWS               | ![50%](https://progress-bar.dev/60/) | ![git](./assets/images/technologies/git.png)                 | Git         | ![80%](https://progress-bar.dev/80/) |
 | ![github](./assets/images/technologies/github.png)                       | GitHub            | ![80%](https://progress-bar.dev/80/) |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000"/>
 
 <!-- END Learning Tecnologias SECTION -->
 
 <!-- START My favorite tools -->
+
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
@@ -53,19 +59,19 @@
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+   <a href="https://github.com/search?q=user%Ndekocode+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%Ndekocode+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%Ndekocode+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%Ndekocode+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%Ndekocode+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%Ndekocode+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%Ndekocode+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%Ndekocode+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%Ndekocode+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%Ndekocode+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%Ndekocode+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%Ndekocode+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%Ndekocode+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
 </p>
  <br>
 
@@ -94,7 +100,6 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
@@ -103,12 +108,7 @@
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
@@ -120,18 +120,6 @@
 <table align="center">
 
   <tr>
-     <td align="center" width="96">
-      <a href="#nuxtjs">
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
@@ -156,14 +144,6 @@
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>Rest
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-      <br>Kubernetes
-    </td>
 </tr>
 
 <tr>
@@ -172,22 +152,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-      <br>Github
-    </td>
-    <td align="center"  width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
@@ -207,99 +171,58 @@
     </td>
 </tr>
 <tr>
-     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
-      </a>
-      <br>Nuxt JS
-    </td>
     <td align="center" width="96">
       <a href="#ts">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
       <br>Express
     </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>MySQL
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
     <td align="center" width="96">
-      <a href="#laravel">
+      <a href="#mysql">
         <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>MySQL
     </td>
-     <td align="center" width="96">
-        <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
-                alt="livewire" />
-        </a>
-        <br>Livewire
-    </td>
-    <td align="center" width="96">
-        <a href="#alpinejs">
-            <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
-                height="48" alt="alpinejs" />
-        </a>
-        <br>Alpine JS
-    </td>
- </tr>
-<tr>
      <td align="center" width="96">
       <a href="#ubuntu" >
         <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
     </td>
+ </tr>
+<tr>
      <td align="center" width="96">
       <a href="#digitalocean">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
       </a>
       <br>Digital Ocean
     </td>
-      <td align="center"  width="96">
+    <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
       <br>VS Code
     </td>
-     <td align="center"  width="96">
+    <td align="center"  width="96">
       <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
       <br>React js
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
       <br>Postgress
     </td>
-      <td align="center" width="96">
-      <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
-      <br>webpack
-    </td>
-      <td align="center" width="96">
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-        </a>
-      <br>Heroku
-    </td>
-         <td align="center"  width="96">
+    <td align="center"  width="96">
      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
       <br>Node js
-    </td>
-    <td align="center" width="96">
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-      <br>Mongo
-    </td>
+  </td>
   </tr>
 
 </table>
