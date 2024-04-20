@@ -1,6 +1,6 @@
 <img alt="Welcome Text" width=100% src="assets/welcome.svg" color="#00bfbf">
 
-> **👨🏻‍💻 About Me :** I'm a software engineer with experience solving enterprise-level challenges using JavaScript / TypeScript technologies. I'm a 🌐 Open Source Enthusiast, writing and sharing knowledge. I love reading books, gaining new knowledge, I'm also a manga and Webtoons enthusiast, an Otaku ⛩️🌸🍥☯🍜 Confirm, to pass the time I like to play chess.
+> **👨🏻‍💻 About Me :** I'm a software engineer with experience solving enterprise-level challenges using JavaScript / TypeScript technologies. I'm an 🌐 Open Source enthusiast, writing and sharing knowledge. I love reading books to gain new knowledge. I'm also a manga and webtoons enthusiast, an otaku ⛩️🌸🍥☯🍜. To pass the time, I enjoy playing chess.
 
 - 😍 I’m **Creative Development** lover
 - 📚 I’m currently learning **React Native** & **NestJS**
