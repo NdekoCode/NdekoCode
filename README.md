@@ -189,9 +189,9 @@
 
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
-<h2> 🤝❤ Views and Followers :eyes:</h2>
+<h2 align="center"> 🤝❤ Views and Followers :eyes:</h2>
 
-<p >
+<p align="center">
 
 <a href="https://github.com/NdekoCode/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NdekoCode">
@@ -217,10 +217,12 @@
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <br/>
+  
+  
+<h2 align="center">🤝🏻 Hangout with Me</h2>
 
-🤝🏻 Hangout with Me
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/arick-bukakali-ndekocode/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-NdekoCode-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/NdekoCode"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-NdekoCode-blue?style=flat-square&logo=twitter"></a>
 <a href="https://web.facebook.com/arick.bulakali/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-NdekoCode-blue?style=flat-square&logo=Facebook"> </a>
