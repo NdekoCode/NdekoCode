@@ -1,30 +1,24 @@
 
 <img alt="Welcome Text" width=100% src="assets/welcome.svg" color="#00bfbf">
 
-## 👨🏻‍💻 About Me
+## 
+> **👨🏻‍💻 About Me :** I'm a software engineer with experience solving enterprise-level challenges using JavaScript / TypeScript technologies. I'm a 🌐 Open Source Enthusiast, writing and sharing knowledge. I love reading books, gaining new knowledge, I'm also a manga and Webtoons enthusiast, an Otaku ⛩️🌸🍥☯🍜 Confirm, to pass the time I like to play chess.
 
 <ul>
-
-<li> I’m passionate about <strong>Creative Development</strong> & <strong>Machine Learning</strong></li>
-<li> 🔭 I’m currently learning <strong>Angular</strong> and <strong>NestJS</strong></li>
-<li> 🌱 I’m currently experimenting the web ecosystem with next.js</li>
-<li> 👯 I’m looking to collaborate on solving problems with software</li>
-<li> 💬 Ask me about anything web-related, I might have a hint</li>
-<li>📫 How to reach me: <a href="mailto:arickbulakali@ndekocode.com">arickbulakali@ndekocode.com</a></li>
-
-<li> ⚡ <em>"*build your future in technology*"</em></li>
+   <li>😍 I’m <strong>Creative Development</strong> lover </li>
+   <li>📚 I’m currently learning <strong>React Native</strong> & <strong>NestJS</strong></li>
+   <li>🤔 I'm interested in learning <strong>Angular</strong> in depth and 🧐 currently experimenting the web ecosystem with <strong>NextJS</strong> </li>
+   <li>💬 Ask me about anything web-related, I might have a hint</li>
+   <li>🔎 I’m looking to collaborate on solving problems with software and open source projects</li>
+   <li>📫 How to reach me: <a href="mailto:arickbulakali@ndekocode.com">arickbulakali@ndekocode.com</a></li>
+   <li>⚡ <em>"*build your future with technology*"</em></li>
+</ul>
 </ul>
 
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <br/>
 
-<div>
-
-<img src="./assets/images/banner-fullstack.gif" align="center" width="100%">
-</div>
-
-   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <br/>
 
@@ -36,7 +30,7 @@
 | -------------------------------------------------------- | ----------------- | ------------------------------------ | ---------------------------------------------------- | --------------- | ------------------------------------ |
 | ![typescript](./assets/images/technologies/typescript.png)               | TypeScript        | ![80%](https://progress-bar.dev/80/) | ![node](./assets/images/technologies/node.png)                       | Node            | ![80%](https://progress-bar.dev/80/) |
 | ![express](./assets/images/technologies/express.png)                     | Express           | ![80%](https://progress-bar.dev/80/) | ![nest](./assets/images/technologies/nest.png)                       | Nest            | ![80%](https://progress-bar.dev/80/) |
-| ![graphql](./assets/images/technologies/graphql.png)                     | GraphQL           | ![80%](https://progress-bar.dev/80/) | ![typeorm](./assets/images/technologies/typeorm.png)                 | TypeORM         | ![80%](https://progress-bar.dev/80/) |
+| ![graphql](https://techstack-generator.vercel.app/graphql-icon.svg)                     | GraphQL           | ![80%](https://progress-bar.dev/80/) | ![typeorm](./assets/images/technologies/typeorm.png)                 | TypeORM         | ![80%](https://progress-bar.dev/80/) |
 | ![prisma](./assets/images/technologies/prisma.png)                       | Prisma            | ![80%](https://progress-bar.dev/80/) | ![sequelize](./assets/images/technologies/sequelize.png)             | Sequelize       | ![80%](https://progress-bar.dev/80/) |
 | ![mongoose](./assets/images/technologies/mongoose.png)                   | Mongoose          | ![40%](https://progress-bar.dev/40/) | ![postgresql](./assets/images/technologies/postgresql.png)           | PostgreSQL      | ![80%](https://progress-bar.dev/80/) |
 | ![mongodb](./assets/images/technologies/mongodb.png)                     | MongoDB           | ![40%](https://progress-bar.dev/40/) | ![jest](./assets/images/technologies/jest.png)                       | Jest            | ![80%](https://progress-bar.dev/80/) |
@@ -64,8 +58,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
