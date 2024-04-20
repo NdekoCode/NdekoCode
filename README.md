@@ -2,13 +2,13 @@
 
 > **👨🏻‍💻 About Me :** I'm a software engineer with experience solving enterprise-level challenges using JavaScript / TypeScript technologies. I'm an 🌐 Open Source enthusiast, writing and sharing knowledge. I love reading books to gain new knowledge. I'm also a manga and webtoons enthusiast, an otaku ⛩️🌸🍥☯🍜. To pass the time, I enjoy playing chess.
 
-- 😍 I’m **Creative Development** lover
+- 😍 I’m a **Creative Development** lover
 - 📚 I’m currently learning **React Native** & **NestJS**
-- 🤔 I'm interested in learning **Angular** in depth and 🧐 currently experimenting the web ecosystem with **NextJS**
+- 🤔 I'm interested in learning **Angular** in depth and 🧐 currently experimenting with the web ecosystem using **NextJS**
 - 💬 Ask me about anything web-related, I might have a hint
-- 🔎 I’m looking to collaborate on solving problems with software and open source projects
+- 🔎 I'm looking to collaborate on solving problems with software and open source projects
 - 📫 How to reach me: [arickbulakali@ndekocode.com](mailto:arickbulakali@ndekocode.com)
-- ⚡ _"\*build your future with technology\*"_
+- ⚡ "*Build your future with technology*"
 
 <br/>
 
