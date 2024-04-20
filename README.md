@@ -1,24 +1,16 @@
-<img alt="Welcome Text" width=100% src="assets/welcome.svg" color="#00bfbf">
+<img alt="Welcome Text" width=100% src="assets/welcome.svg" color="#00bfbf"><br>
 
-## 👨🏻‍💻 About Me
+> **👨🏻‍💻 About Me :** I'm a software engineer with experience solving enterprise-level challenges using JavaScript / TypeScript technologies. I'm a 🌐 Open Source Enthusiast, writing and sharing knowledge. I love reading books, gaining new knowledge, I'm also a manga and Webtoons enthusiast, an Otaku ⛩️🌸🍥☯🍜 Confirm, to pass the time I like to play chess.
 
-<ul>
+- 😍 I’m **Creative Development** lover
+- 📚 I’m currently learning **React Native** & **NestJS**
+- 🤔 I'm interested in learning **Angular** in depth and 🧐 currently experimenting the web ecosystem with **NextJS**
+- 💬 Ask me about anything web-related, I might have a hint
+- 🔎 I’m looking to collaborate on solving problems with software and open source projects
+- 📫 How to reach me: [arickbulakali@ndekocode.com](mailto:arickbulakali@ndekocode.com)
+- ⚡ _"\*build your future with technology\*"_
 
-<li> I’m passionate about <strong>Creative Development</strong> & <strong>Machine Learning</strong></li>
-<li> 🔭 I’m currently learning <strong>Angular</strong> and <strong>NestJS</strong></li>
-<li> 🌱 I’m currently experimenting the web ecosystem with next.js</li>
-<li> 👯 I’m looking to collaborate on solving problems with software</li>
-<li> 💬 Ask me about anything web-related, I might have a hint</li>
-<li>📫 How to reach me: <a href="mailto:arickbulakali@ndekocode.com">arickbulakali@ndekocode.com</a></li>
-
-<li> ⚡ <em>"*build your future in technology*"</em></li>
-</ul>
-
-   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
-
-<br/>
-
-<div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <br/>
 
@@ -26,20 +18,19 @@
 <p align="center">
  <h2 align="center">Learning Tecnologias</h2>
 
-|                                                                          |                   |                                      |                                                              |             |                                      |
-| ------------------------------------------------------------------------ | ----------------- | ------------------------------------ | ------------------------------------------------------------ | ----------- | ------------------------------------ |
-| ![typescript](./assets/images/technologies/typescript.png)               | TypeScript        | ![80%](https://progress-bar.dev/80/) | ![node](./assets/images/technologies/node.png)               | Node        | ![80%](https://progress-bar.dev/80/) |
-| ![express](./assets/images/technologies/express.png)                     | Express           | ![80%](https://progress-bar.dev/80/) | ![nest](./assets/images/technologies/nest.png)               | Nest        | ![80%](https://progress-bar.dev/80/) |
-| ![graphql](./assets/images/technologies/graphql.png)                     | GraphQL           | ![80%](https://progress-bar.dev/80/) | ![typeorm](./assets/images/technologies/typeorm.png)         | TypeORM     | ![80%](https://progress-bar.dev/80/) |
-| ![prisma](./assets/images/technologies/prisma.png)                       | Prisma            | ![80%](https://progress-bar.dev/80/) | ![sequelize](./assets/images/technologies/sequelize.png)     | Sequelize   | ![80%](https://progress-bar.dev/80/) |
-| ![mongoose](./assets/images/technologies/mongoose.png)                   | Mongoose          | ![40%](https://progress-bar.dev/40/) | ![postgresql](./assets/images/technologies/postgresql.png)   | PostgreSQL  | ![80%](https://progress-bar.dev/80/) |
-| ![mongodb](./assets/images/technologies/mongodb.png)                     | MongoDB           | ![40%](https://progress-bar.dev/40/) | ![jest](./assets/images/technologies/jest.png)               | Jest        | ![80%](https://progress-bar.dev/80/) |
-| ![mocha](./assets/images/technologies/mocha.png)                         | Mocha             | ![80%](https://progress-bar.dev/80/) | ![docker](./assets/images/technologies/docker.png)           | Docker      | ![60%](https://progress-bar.dev/60/) |
-| ![react](./assets/images/technologies/react.png)                         | React             | ![80%](https://progress-bar.dev/80/) | ![next](./assets/images/technologies/next.png)               | Next        | ![40%](https://progress-bar.dev/40/) |
-| ![redux](./assets/images/technologies/redux.png)                         | Redux             | ![80%](https://progress-bar.dev/80/) | ![css-modules](./assets/images/technologies/css-modules.png) | CSS Modules | ![80%](https://progress-bar.dev/80/) |
-| ![styled-components](./assets/images/technologies/styled-components.png) | Styled Components | ![80%](https://progress-bar.dev/80/) | ![material-ui](./assets/images/technologies/material-ui.png) | Material UI | ![80%](https://progress-bar.dev/80/) |
-| ![aws](./assets/images/technologies/aws.png)                             | AWS               | ![50%](https://progress-bar.dev/60/) | ![git](./assets/images/technologies/git.png)                 | Git         | ![80%](https://progress-bar.dev/80/) |
-| ![github](./assets/images/technologies/github.png)                       | GitHub            | ![80%](https://progress-bar.dev/80/) |
+| ![typescript](./assets/images/technologies/typescript.png)               | TypeScript        | ![80%](https://progress-bar.dev/80/) | ![node](./assets/images/technologies/node.png)               | Node        | ![80%](https://progress-bar.dev/80%) |
+| ------------------------------------------------------------------------ | ----------------- | ------------------------------------ | ------------------------------------------------------------ | ----------- | ----------------------------------- |
+| ![express](./assets/images/technologies/express.png)                     | Express           | ![80%](https://progress-bar.dev/80/) | ![nest](./assets/images/technologies/nest.png)               | Nest        | ![80%](https://progress-bar.dev/80%) |
+| ![graphql](./assets/images/technologies/graphql.png)                     | GraphQL           | ![80%](https://progress-bar.dev/80/) | ![typeorm](./assets/images/technologies/typeorm.png)         | TypeORM     | ![80%](https://progress-bar.dev/80%) |
+| ![prisma](./assets/images/technologies/prisma.png)                       | Prisma            | ![80%](https://progress-bar.dev/80%) | ![sequelize](./assets/images/technologies/sequelize.png)     | Sequelize   | ![80%](https://progress-bar.dev/80%) |
+| ![mongoose](./assets/images/technologies/mongoose.png)                   | Mongoose          | ![40%](https://progress-bar.dev/40%) | ![postgresql](./assets/images/technologies/postgresql.png)   | PostgreSQL  | ![80%](https://progress-bar.dev/80%) |
+| ![mongodb](./assets/images/technologies/mongodb.png)                     | MongoDB           | ![40%](https://progress-bar.dev/40%) | ![jest](./assets/images/technologies/jest.png)               | Jest        | ![80%](https://progress-bar.dev/80%) |
+| ![mocha](./assets/images/technologies/mocha.png)                         | Mocha             | ![80%](https://progress-bar.dev/80%) | ![docker](./assets/images/technologies/docker.png)           | Docker      | ![60%](https://progress-bar.dev/60%) |
+| ![react](./assets/images/technologies/react.png)                         | React             | ![80%](https://progress-bar.dev/80%) | ![next](./assets/images/technologies/next.png)               | Next        | ![40%](https://progress-bar.dev/40%) |
+| ![redux](./assets/images/technologies/redux.png)                         | Redux             | ![80%](https://progress-bar.dev/80%) | ![css-modules](./assets/images/technologies/css-modules.png) | CSS Modules | ![80%](https://progress-bar.dev/80%) |
+| ![styled-components](./assets/images/technologies/styled-components.png) | Styled Components | ![80%](https://progress-bar.dev/80%) | ![material-ui](./assets/images/technologies/material-ui.png) | Material UI | ![80%](https://progress-bar.dev/80%) |
+| ![aws](./assets/images/technologies/aws.png)                             | AWS               | ![50%](https://progress-bar.dev/60%) | ![git](./assets/images/technologies/git.png)                 | Git         | ![80%](https://progress-bar.dev/80%) |
+| ![github](./assets/images/technologies/github.png)                       | GitHub            | ![80%](https://progress-bar.dev/80%) |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000"/>
 
@@ -111,116 +102,6 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
- <br>
-<table align="center">
-
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
-      </a>
-      <br>Vue JS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
-</tr>
-
-<tr>
-    <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
-      <br>redis
-    </td>
-</tr>
-<tr>
-    <td align="center" width="96">
-      <a href="#ts">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <a href="#mysql">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>MySQL
-    </td>
-     <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
- </tr>
-<tr>
-     <td align="center" width="96">
-      <a href="#digitalocean">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
-      </a>
-      <br>Digital Ocean
-    </td>
-    <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
-      </a>
-      <br>VS Code
-    </td>
-    <td align="center"  width="96">
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-      <br>React js
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-      <br>Postgress
-    </td>
-    <td align="center"  width="96">
-     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-      <br>Node js
-  </td>
-  </tr>
-
-</table>
 
 <br/>
 <!-- START Contribution Graph SECTION -->
@@ -326,7 +207,7 @@
 
 <!-- START My Github Profile Trophy SECTION -->
 <p align="center">
-  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
   <h2 align="center">My Github Profile Stats and Trophy</h2>
 </p>
 
@@ -341,23 +222,9 @@
   />
   <img
     width="45%"
-    alt="Top langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NdekoCode&show_icons=true&theme=radical&layout=compact"
-  />
-</p>
-
-<p>
-  <img
-    width="45%"
     height="200"
     alt="GitHub Streak Stats"
     src="https://github-profile-trophy.vercel.app/?username=NdekoCode&theme=radical&no-frame=true&column=3&row=2"
-  />
-  <img
-    width="45%"
-    height="200"
-    alt="GitHub Streak Stats"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=NdekoCode&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
   />
 </p>
 
