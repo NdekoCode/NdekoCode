@@ -14,12 +14,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
-<br/>
 
 <!-- START Learning Tecnologias SECTION -->
 ## Learning Tecnologias</h2>
 
-|                                                          |                   |                                      |                                                      |                 |                                      |
+| Image             | Description         | Level                                | Image                                           | Description           | Level                           |
 | -------------------------------------------------------- | ----------------- | ------------------------------------ | ---------------------------------------------------- | --------------- | ------------------------------------ |
 | ![typescript](./assets/images/technologies/typescript.png)               | TypeScript        | ![80%](https://progress-bar.dev/80/) | ![node](./assets/images/technologies/node.png)                       | Node            | ![80%](https://progress-bar.dev/80/) |
 | ![express](./assets/images/technologies/express.png)                     | Express           | ![80%](https://progress-bar.dev/80/) | ![nest](./assets/images/technologies/nest.png)                       | Nest            | ![80%](https://progress-bar.dev/80/) |
@@ -105,10 +104,11 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000"/>
 <!-- START Contribution Graph SECTION -->
-<p align="center">
- <h2 align="center">Contribution Graph</h2>
+
+## Contribution Graph
 
 ![NdekoCode's Activity Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndekocode&theme=gotham)
 
@@ -117,10 +117,10 @@
 
 <br/>
 
-<h2 align="center">Open source projects and Tools:</h2>
+## Open source projects and Tools
 
-<table align="center">
-  <thead align="center">
+ <table>
+  <thead>
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
@@ -129,7 +129,7 @@
       <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
-  <tbody align="center">
+  <tbody>
     <tr>
       <td><a href="https://github.com/NdekoCode/NdekoCode"><b>NdekoCode</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/NdekoCode/NdekoCode?style=flat-square&labelColor=343b41"/></td>
@@ -191,9 +191,9 @@
 
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
-<h2 align="center"> 🤝❤ Views and Followers :eyes:</h2>
+<h2> 🤝❤ Views and Followers :eyes:</h2>
 
-<p align="center">
+<p >
 
 <a href="https://github.com/NdekoCode/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NdekoCode">
@@ -203,15 +203,12 @@
     </a>
 </p>
 
-   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
-
 <br/>
 
 <!-- START My Github Profile Trophy SECTION -->
-<p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
-  <h2 align="center">My Github Profile Stats and Trophy</h2>
-</p>
+
+## My Github Profile Stats and Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ndekocode&theme=radical&margin-w=40&margin-h=40)](https://github.com/ndekocode)
 
@@ -234,9 +231,9 @@
 
 <br/>
 
-<h3 align="center"> 🤝🏻 Hangout with Me </h3>
+🤝🏻 Hangout with Me
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/arick-bukakali-ndekocode/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-NdekoCode-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/NdekoCode"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-NdekoCode-blue?style=flat-square&logo=twitter"></a>
 <a href="https://web.facebook.com/arick.bulakali/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-NdekoCode-blue?style=flat-square&logo=Facebook"> </a>
