@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <!-- START Learning Tecnologias SECTION -->
-## Learning Tecnologias</h2>
+## My Favorites TecnologiEs</h2>
 
 | Image             | Description         | Level                                | Image                                           | Description           | Level                           |
 | -------------------------------------------------------- | ----------------- | ------------------------------------ | ---------------------------------------------------- | --------------- | ------------------------------------ |
