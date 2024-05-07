@@ -110,13 +110,13 @@
 
 ![NdekoCode's Activity Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndekocode&theme=gotham)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
-<!-- END Contribution Graph SECTION -->
 
 <br/>
 <!-- Git Roll -->
 <a href="https://gitroll.io/profile/uODK7bv4iOKYQ4To9b40kE5AaLgq2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uODK7bv4iOKYQ4To9b40kE5AaLgq2" alt="GitRoll Profile Badge"/></a>
 <br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+<!-- END Contribution Graph SECTION -->
 
 ## Open source projects and Tools
 
