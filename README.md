@@ -114,6 +114,9 @@
 <!-- END Contribution Graph SECTION -->
 
 <br/>
+<!-- Git Roll -->
+<a href="https://gitroll.io/profile/uODK7bv4iOKYQ4To9b40kE5AaLgq2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uODK7bv4iOKYQ4To9b40kE5AaLgq2" alt="GitRoll Profile Badge"/></a>
+<br/>
 
 ## Open source projects and Tools
 
