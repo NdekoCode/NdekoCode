@@ -5,6 +5,7 @@
 - 😍 I’m a **Creative Development** lover
 - 📚 I’m currently learning **React Native** & **NestJS**
 - 🤔 I'm interested in learning **Angular** in depth and 🧐 currently experimenting with the web ecosystem using **NextJS**
+- 🥂 Freelance Love TypeScript, Next.js, NestJS, React Native and Angular
 - 💬 Ask me about anything web-related, I might have a hint
 - 🔎 I'm looking to collaborate on solving problems with software and open source projects
 - 📫 How to reach me: [arickbulakali@ndekocode.com](mailto:arickbulakali@ndekocode.com)
