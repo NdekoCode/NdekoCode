@@ -15,28 +15,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
-<!-- START Learning Tecnologias SECTION -->
-## My Favorites Technologies</h2>
-
-| Image             | Description         | Level                                | Image                                           | Description           | Level                           |
-| -------------------------------------------------------- | ----------------- | ------------------------------------ | ---------------------------------------------------- | --------------- | ------------------------------------ |
-| ![typescript](./assets/images/technologies/typescript.png)               | TypeScript        | ![80%](https://progress-bar.dev/80/) | ![node](./assets/images/technologies/node.png)                       | Node            | ![80%](https://progress-bar.dev/80/) |
-| ![express](./assets/images/technologies/express.png)                     | Express           | ![80%](https://progress-bar.dev/80/) | ![nest](./assets/images/technologies/nest.png)                       | Nest            | ![80%](https://progress-bar.dev/80/) |
-| ![graphql](https://techstack-generator.vercel.app/graphql-icon.svg)                     | GraphQL           | ![80%](https://progress-bar.dev/80/) | ![typeorm](./assets/images/technologies/typeorm.png)                 | TypeORM         | ![80%](https://progress-bar.dev/80/) |
-| ![prisma](./assets/images/technologies/prisma.png)                       | Prisma            | ![80%](https://progress-bar.dev/80/) | ![sequelize](./assets/images/technologies/sequelize.png)             | Sequelize       | ![80%](https://progress-bar.dev/80/) |
-| ![mongoose](./assets/images/technologies/mongoose.png)                   | Mongoose          | ![40%](https://progress-bar.dev/40/) | ![postgresql](./assets/images/technologies/postgresql.png)           | PostgreSQL      | ![80%](https://progress-bar.dev/80/) |
-| ![mongodb](./assets/images/technologies/mongodb.png)                     | MongoDB           | ![40%](https://progress-bar.dev/40/) | ![jest](./assets/images/technologies/jest.png)                       | Jest            | ![80%](https://progress-bar.dev/80/) |
-| ![mocha](./assets/images/technologies/mocha.png)                         | Mocha             | ![80%](https://progress-bar.dev/80/) | ![docker](./assets/images/technologies/docker.png)                   | Docker          | ![60%](https://progress-bar.dev/60/) |
-| ![react](./assets/images/technologies/react.png)                         | React             | ![80%](https://progress-bar.dev/80/) | ![next](./assets/images/technologies/next.png)                       | Next            | ![40%](https://progress-bar.dev/40/) |
-| ![redux](./assets/images/technologies/redux.png)                         | Redux             | ![80%](https://progress-bar.dev/80/) | ![css-modules](./assets/images/technologies/css-modules.png)         | CSS Modules     | ![80%](https://progress-bar.dev/80/) |
-| ![styled-components](./assets/images/technologies/styled-components.png) | Styled Components | ![80%](https://progress-bar.dev/80/) | ![material-ui](./assets/images/technologies/material-ui.png)         | Material UI     | ![80%](https://progress-bar.dev/80/) |
-| ![aws](./assets/images/technologies/aws.png)                             | AWS               | ![50%](https://progress-bar.dev/60/) | ![git](./assets/images/technologies/git.png)                         | Git             | ![80%](https://progress-bar.dev/80/) |
-| ![github](./assets/images/technologies/github.png)                       | GitHub            | ![80%](https://progress-bar.dev/80/) |
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000"/>
-
-<!-- END Learning Tecnologias SECTION -->
-
 <!-- START My favorite tools -->
 
 ## My favorite tools and technologies ⚙️
