@@ -8,7 +8,6 @@
 - 🥂 Freelance Love TypeScript, Next.js, NestJS, React Native and Angular
 - 💬 Ask me about anything web-related, I might have a hint
 - 🔎 I'm looking to collaborate on solving problems with software and open source projects
-- 📫 How to reach me: [arickbulakali@ndekocode.com](mailto:arickbulakali@ndekocode.com)
 - ⚡ "*Build your future with technology*"
 
 <br/>
@@ -200,15 +199,3 @@
 
 <br/>
   
-  
-<h2 align="center">🤝🏻 Hangout with Me</h2>
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/arick-bukakali-ndekocode/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-NdekoCode-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/NdekoCode"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-NdekoCode-blue?style=flat-square&logo=twitter"></a>
-<a href="https://web.facebook.com/arick.bulakali/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-NdekoCode-blue?style=flat-square&logo=Facebook"> </a>
-<a href="https://www.instagram.com/NdekoCode/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-NdekoCode-blue?style=flat-square&logo=Instagram"> </a>
-<a href="mailto:arickbulakali@ndekocode.com"><img alt="Email" src="https://img.shields.io/badge/Email-arickbulakali@ndekocode.com-orange?style=flat-square&logo=Gmail"></a>
-<a href="https://wa.me/243991487950/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-NdekoCode-lime?style=flat-square&logo=WhatsApp"> </a>
-</p>
