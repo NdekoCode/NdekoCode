@@ -198,13 +198,24 @@
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <br/>
-  
-🏆 <b>GitHub Awards</b>
 
+  
+  <h2 align="center">🏆 GitHub Award</h2>
+
+<!-- START My Github Profile Trophy SECTION -->
+<p align="center">
+   
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=NdekoCode)
 
-⭐ <b>GitHub Stars</b>
+</p>
 
+  
+  <h2 align="center">🏆 GitHub Stars</h2>
+
+<!-- START My Github Profile Trophy SECTION -->
+<p align="center">
+   
 ![NdekoCode's github stats](https://evereq-github-stats.vercel.app/api?username=NdekoCode&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
+</p>
