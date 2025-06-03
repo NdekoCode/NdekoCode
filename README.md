@@ -199,3 +199,12 @@
 
 <br/>
   
+🏆 <b>GitHub Awards</b>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=NdekoCode)
+
+⭐ <b>GitHub Stars</b>
+
+![NdekoCode's github stats](https://evereq-github-stats.vercel.app/api?username=NdekoCode&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
