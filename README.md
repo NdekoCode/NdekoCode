@@ -1,11 +1,12 @@
 <p align="center">
- <samp>Hey! NdekoCode here</samp></br>
+ <samp>Hey 👋! NdekoCode here</samp></br>
   <samp>
-     <code>A simple guy, a hard worker, an insomniac, and passionate about full-stack development, creative development
-</code>
-    <code>I like to build things in the right way</code><br/>
-    <code>Performance optimization, clean code, and architecture</code><br/>
-   <code> Open Source enthusiast, a manga and webtoons lover #an_otaku ⛩️🌸🍥☯🍜.</code><br/>
+
+   <code>A simple guy, a hard worker, passionate about full-stack development, creative development</code><br/>
+   <code>I like to build things in the right way</code><br/>
+   <code>Focused on performance optimization, clean code, creative solutions and solid architecture</code><br/>
+   <code>AI integration, and seamless user experiences</code><br/>
+   <code>Open Source enthusiast, manga and webtoons lover #an_otaku ⛩️🌸🍥☯🍜</code><br/>
     <p align="center">
       <samp>
         <a href="https://ndekocode.com/">Website</a> ᐧ
@@ -15,18 +16,19 @@
     </p>
   </samp>
 </p>
+
 <p align="center">
-  <samp>🔑 JS-Typescript | NodeJs</samp></br>
-  <samp>🛠 Vuejs | React | ReactNative | NestJS | Next.js | Nuxt | Three.js | RxJS | Motion | Gsap</samp></br>
-  <samp>💾 Sql/NoSql | Redis | AWS | Firebase | Docker | GraphQL | Prisma</samp></br>
-  <samp>🧰 Figma | Blender | Spline | Rive | Git-Github</samp></br>
-  <samp>📌 Agile | Gitflow</samp>
+  <samp>🔑 Rust/TypeScript | Node.js | AI Integration</samp></br>
+  <samp>🛠 Vue.js | React | React Native | NestJS | Next.js | Nuxt | Three.js</samp></br>
+  <samp>⚡ RxJS | Motion | GSAP | Performance Optimization</samp></br>
+  <samp>💾 SQL/NoSQL | Redis | AWS | Firebase | Docker | Kubernetes | GraphQL | Prisma</samp></br>
+  <samp>🎨 Figma | Blender | Spline | Rive | UI/UX Design</samp></br>
+  <samp>📌 Git-GitHub | Agile | Clean Architecture</samp>
 </p>
 
 <h2 align="center"> 🤝❤ Views and Followers :eyes:</h2>
 
 <p align="center">
-
 <a href="https://github.com/NdekoCode/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NdekoCode">
 </a>
@@ -45,7 +47,6 @@
 
 <p align="center" style="width:100%">
   <img height="180em" width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=NdekoCode&theme=gotham&hide_border=true" />
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NdekoCode&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&show_icons=true"/>  -->
 </p>
 
 <p align="center">
