@@ -1,12 +1,11 @@
 <p align="center">
- <samp>Hey 👋! NdekoCode here</samp></br>
+ <samp>Hey 👋! NdekoCode here </samp></br>
   <samp>
-
-   <code>A simple guy, a hard worker, passionate about full-stack development, creative development</code><br/>
-   <code>I like to build things in the right way</code><br/>
-   <code>Focused on performance optimization, clean code, creative solutions and solid architecture</code><br/>
-   <code>AI integration, and seamless user experiences</code><br/>
-   <code>Open Source enthusiast, manga and webtoons lover #an_otaku ⛩️🌸🍥☯🍜</code><br/>
+    <code>A simple guy, a hard worker, passionate about full-stack development, creative development</code><br/>
+    <code>I like to build things in the right way</code><br/>
+    <code>Focused on performance optimization, clean code, creative solutions and solid architecture</code><br/>
+    <code>AI integration, and seamless user experiences</code><br/>
+    <code>Open Source enthusiast, manga and webtoons lover #an_otaku ⛩️🌸🍥</code><br/>
     <p align="center">
       <samp>
         <a href="https://ndekocode.com/">Website</a> ᐧ
