@@ -45,7 +45,7 @@
 
 <p align="center" style="width:100%">
   <img height="180em" width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=NdekoCode&theme=gotham&hide_border=true" />
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sineastra&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&show_icons=true"/>  -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NdekoCode&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&show_icons=true"/>  -->
 </p>
 
 <p align="center">
