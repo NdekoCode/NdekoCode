@@ -28,9 +28,6 @@
 <h2 align="center"> 🤝❤ Views and Followers :eyes:</h2>
 
 <p align="center">
-<a href="https://github.com/NdekoCode/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NdekoCode">
-</a>
     <a href="https://github.com/NdekoCode?tab=followers">
         <img src="https://img.shields.io/github/followers/NdekoCode?label=Followers&style=social" alt="GitHub Badge">
     </a>
