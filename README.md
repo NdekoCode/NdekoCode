@@ -25,9 +25,28 @@
   <samp>📌 Git-GitHub | Agile | Clean Architecture</samp>
 </p>
 
+<h2 align="center"> Let's connect </h2>
+
+<p align="center">
+<a href="https://linkedin.com/in/ndekocode/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ndekocode-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:arickbulakali@ndekocode.dev">
+  <img alt="Email" src="https://img.shields.io/badge/Email-arickbulakali@ndekocode.dev-blue?style=flat-square&logo=Google%20gmail">
+</a>
+<a href="https://www.upwork.com/freelancers/~01b60f3453cba242cc">
+  <img alt="Email" src="https://img.shields.io/badge/Upwork-Hire%20Me-1CA0F1?style=flat-square&logo=upwork">
+</a>
+</p>
+
+
 <h2 align="center"> 🤝❤ Views and Followers :eyes:</h2>
 
 <p align="center">
+ 
+  <a href="https://github.com/ndekocode/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ndekocode">
+  </a>
     <a href="https://github.com/NdekoCode?tab=followers">
         <img src="https://img.shields.io/github/followers/NdekoCode?label=Followers&style=social" alt="GitHub Badge">
     </a>
