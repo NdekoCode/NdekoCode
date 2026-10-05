@@ -8,7 +8,7 @@
     <code>Open Source enthusiast, manga and webtoons lover #an_otaku ⛩️🌸🍥</code><br/>
     <p align="center">
       <samp>
-        <a href="https://ndekocode.com/">Website</a> ᐧ
+        <a href="https://ndekocode.dev/">Website</a> ᐧ
         <a href="https://www.linkedin.com/in/ndekocode">LinkedIn</a> ᐧ
         <a href="https://x.com/ndekocode">X</a>
       </samp>
