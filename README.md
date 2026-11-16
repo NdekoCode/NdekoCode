@@ -1,6 +1,6 @@
 <p align="center">
   <samp>Hey 👋! NdekoCode here</samp><br/>
-  <samp>Senior Fullstack TypeScript Engineer · UI/UX Designer · Rust 🦀</samp><br/>
+  <samp>Senior Product Engineer · Rust🦀 & AI. Contributor to uutils coreutils. Creator of ndekoui. Building products end to end.</samp><br/>
   <samp>Kigali, Rwanda (UTC+2)/Dubai, United Arab Emirates (UTC+4) · Open to remote roles worldwide</samp>
 </p>
 
